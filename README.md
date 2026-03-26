@@ -44,13 +44,6 @@ Consistent practice in data structures and algorithms, building strong analytica
 
 ## 📌 Featured Projects
 
-### 🏋️ [Workout Tracker API](https://github.com/syed-anas-a/workout-tracker) _(in progress)_
-> Python · Django · DRF · MySQL
-
-A REST API built around progressive overload tracking - going beyond basic CRUD to implement domain logic like volume calculation, plateau detection, and weekly progression comparison. Built independently to demonstrate backend reasoning outside of a course context.
-
----
-
 ### 🛍️ [E-Commerce Management System](https://github.com/syed-anas-a/Ecommerce-System)
 > Java 21 · Spring Boot · MySQL
 
