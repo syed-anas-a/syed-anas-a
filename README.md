@@ -46,14 +46,18 @@ Consistent practice in data structures and algorithms, building strong analytica
 
 ### 🛍️ [E-Commerce Management System](https://github.com/syed-anas-a/Ecommerce-System)
 > Java 21 · Spring Boot · MySQL
-
-Production-minded e-commerce backend with stateful JWT authentication, role-based access control, server-side cart and order management, and Razorpay payment verification via HMAC-SHA256. Robust MVC architecture with clear seperation of concerns to ensure modular design, scalability, and clean logic flow.
+Production-minded e-commerce backend with stateful JWT authentication, role-based access control, server-side cart and order management, and Razorpay payment verification via HMAC-SHA256. Robust MVC architecture with clear separation of concerns to ensure modular design, scalability, and clean logic flow.
 
 ---
 
-### 🍽️ [Restaurant API](https://github.com/syed-anas-a/restaurant-api)
-> Python · Django · DRF · MySQL
+### 📊 [Finance Dashboard System](https://github.com/syed-anas-a/finance-dashboard-system)
+> Java 21 · Spring Boot · Spring Security 6 · MySQL · Docker
+Role-based financial records backend with three-tier access control (Admin, Analyst, Viewer), JWT authentication via HttpOnly cookies, and DB-level dashboard aggregation using JPQL. Features paginated and filtered record retrieval, multi-stage Docker deployment, and deliberate security decisions including admin-only user provisioning and SecurityContext-sourced audit fields.
 
+---
+
+### 🍽️ [Restaurant API](https://github.com/syed-anas-a/Restaurant-API)
+> Python · Django · DRF · MySQL
 RESTful API for restaurant operations - menu management, table booking, and order handling. Built as the capstone project for the Meta Backend Developer Professional Certificate.
 
 ---
