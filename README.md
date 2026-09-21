@@ -44,21 +44,21 @@ Consistent practice in data structures and algorithms, building strong analytica
 
 ## 📌 Featured Projects
 
-### 🛍️ [E-Commerce Management System](https://github.com/syed-anas-a/Ecommerce-System)
-> Java 21 · Spring Boot · MySQL
-Production-minded e-commerce backend with stateful JWT authentication, role-based access control, server-side cart and order management, and Razorpay payment verification via HMAC-SHA256. Robust MVC architecture with clear separation of concerns to ensure modular design, scalability, and clean logic flow.
-
----
-
 ### 📊 [Finance Dashboard System](https://github.com/syed-anas-a/finance-dashboard-system)
 > Java 21 · Spring Boot · Spring Security 6 · MySQL · Docker
 Role-based financial records backend with three-tier access control (Admin, Analyst, Viewer), JWT authentication via HttpOnly cookies, and DB-level dashboard aggregation using JPQL. Features paginated and filtered record retrieval, multi-stage Docker deployment, and deliberate security decisions including admin-only user provisioning and SecurityContext-sourced audit fields.
 
 ---
 
-### 🍽️ [Restaurant API](https://github.com/syed-anas-a/Restaurant-API)
-> Python · Django · DRF · MySQL
-RESTful API for restaurant operations - menu management, table booking, and order handling. Built as the capstone project for the Meta Backend Developer Professional Certificate.
+### 🍽️ [Restaurant API](https://github.com/syed-anas-a/restaurant-app)
+> Python · Django · DRF · MySQL · React
+Full-stack restaurant ordering system with Django REST Framework backend and React frontend. Features JWT auth, role-based access (Manager, Delivery Crew, Customer), menu management, cart management, and order processing with MySQL database.
+
+---
+
+### 🛍️ [E-Commerce Management System](https://github.com/syed-anas-a/Ecommerce-System)
+> Java 21 · Spring Boot · MySQL
+Production-minded e-commerce backend with stateful JWT authentication, role-based access control, server-side cart and order management, and Razorpay payment verification via HMAC-SHA256. Robust MVC architecture with clear separation of concerns to ensure modular design, scalability, and clean logic flow.
 
 ---
 
@@ -69,9 +69,5 @@ RESTful API for restaurant operations - menu management, table booking, and orde
 | ✅ | Meta Backend Developer Professional Certificate | Meta / Coursera |
 | ✅ | CS50x — Introduction to Computer Science | Harvard / edX |
 | ✅ | CS50P — Introduction to Programming with Python | Harvard / edX |
-
----
-
-*Curiosity and depth are the two most significant metrics that fuels my growth and meaning.*
 
 ---
