@@ -50,7 +50,7 @@ Role-based financial records backend with three-tier access control (Admin, Anal
 
 ---
 
-### 🍽️ [Restaurant API](https://github.com/syed-anas-a/restaurant-app)
+### 🍽️ [Restaurant Application](https://github.com/syed-anas-a/restaurant-app)
 > Python · Django · DRF · MySQL · React
 Full-stack restaurant ordering system with Django REST Framework backend and React frontend. Features JWT auth, role-based access (Manager, Delivery Crew, Customer), menu management, cart management, and order processing with MySQL database.
 
